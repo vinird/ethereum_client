@@ -1,5 +1,6 @@
 var data = "";
-var host = "http://159.203.0.218:8545";
+//var host = "http://159.203.21.239:8545";
+var host = "http://localhost:9545";
 
 var Web3 = require('web3');
 var web3 = new Web3();
